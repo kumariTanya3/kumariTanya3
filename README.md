@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumariTanya3.
-- 👀 I’m interested in things that make me feel peace.
-- 🌱 I’m currently learning DSA.
+- 👀 Front-end, DSA, AI, Gen AI
+- 🌱 I’m learning Automation testing (Playwright)
 
 <!---
 kumariTanya3/kumariTanya3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
